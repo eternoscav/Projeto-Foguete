@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0F31AB41-5C03-1909-C74C-D10B87200926}") = "Foguete Perfeito", "Assembly-CSharp-firstpass.csproj", "{ACD62791-FCD0-F0CF-F3A0-903124E0FE41}"
+EndProject
+Project("{0F31AB41-5C03-1909-C74C-D10B87200926}") = "Foguete Perfeito", "Assembly-UnityScript-firstpass.unityproj", "{862A5C1D-5EF6-3F83-4343-CEA5BBBB7F56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD62791-FCD0-F0CF-F3A0-903124E0FE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD62791-FCD0-F0CF-F3A0-903124E0FE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD62791-FCD0-F0CF-F3A0-903124E0FE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD62791-FCD0-F0CF-F3A0-903124E0FE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862A5C1D-5EF6-3F83-4343-CEA5BBBB7F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862A5C1D-5EF6-3F83-4343-CEA5BBBB7F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862A5C1D-5EF6-3F83-4343-CEA5BBBB7F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862A5C1D-5EF6-3F83-4343-CEA5BBBB7F56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
